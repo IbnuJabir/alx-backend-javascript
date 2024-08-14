@@ -1,7 +1,8 @@
 # 0x04. Typescript
 | `JavaScript` | `TypeScript` |
 
-![](./images/meme5.png)
+![](./images/meme5.bmp)
+
 
 ## Resources
 **Read or watch:**
